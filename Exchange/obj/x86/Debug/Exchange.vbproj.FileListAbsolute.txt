@@ -1,0 +1,9 @@
+c:\users\eghbaldar\documents\visual studio 2010\Projects\Exchange\Exchange\bin\Debug\Exchange.exe
+c:\users\eghbaldar\documents\visual studio 2010\Projects\Exchange\Exchange\bin\Debug\Exchange.pdb
+c:\users\eghbaldar\documents\visual studio 2010\Projects\Exchange\Exchange\bin\Debug\Exchange.xml
+c:\users\eghbaldar\documents\visual studio 2010\Projects\Exchange\Exchange\obj\x86\Debug\Exchange.Form1.resources
+c:\users\eghbaldar\documents\visual studio 2010\Projects\Exchange\Exchange\obj\x86\Debug\Exchange.Resources.resources
+c:\users\eghbaldar\documents\visual studio 2010\Projects\Exchange\Exchange\obj\x86\Debug\Exchange.vbproj.GenerateResource.Cache
+c:\users\eghbaldar\documents\visual studio 2010\Projects\Exchange\Exchange\obj\x86\Debug\Exchange.exe
+c:\users\eghbaldar\documents\visual studio 2010\Projects\Exchange\Exchange\obj\x86\Debug\Exchange.xml
+c:\users\eghbaldar\documents\visual studio 2010\Projects\Exchange\Exchange\obj\x86\Debug\Exchange.pdb
